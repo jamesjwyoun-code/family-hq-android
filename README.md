@@ -15,6 +15,8 @@ when the planner is updated.
 4. When it shows a green tick, open the run and download **MyFamilyHQ-apk** (a zip containing `MyFamilyHQ.apk`).
 
 ## Install on the phone
+Easiest: on the phone, open https://github.com/jamesjwyoun-code/family-hq-android/releases/latest/download/MyFamilyHQ.apk — every build publishes a release with the APK.
+
 1. Send `MyFamilyHQ.apk` to the phone (email, Google Drive, or USB) and tap it.
 2. Allow "Install unknown apps" for the app you opened it from when Android asks.
 3. Open **MyFamilyHQ**. The first time, sign in to claude.ai in the Chrome tab if asked.
